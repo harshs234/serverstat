@@ -4,6 +4,7 @@ A simple Bash script that displays basic server statistics from a Linux system.
 
 ## Features
 
+- Live dashboard that refreshes system statistics every second
 - Shows current CPU usage information
 - Displays memory usage percentage
 - Displays disk usage percentage
@@ -37,7 +38,7 @@ Run the script:
 
 ```text
 memory usage by percentage
-Used: 35.42% | Free: 12.84%
+used: 35.42% | free: 12.84% | cache memory : 4.11%
 
 space used by percentage
 total percentage used: 20%
